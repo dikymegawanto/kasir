@@ -1,0 +1,2 @@
+# kasir
+program sederhana kasir
